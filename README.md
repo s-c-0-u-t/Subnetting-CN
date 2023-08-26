@@ -1,0 +1,1 @@
+The tool simplified complex subnetting tasks, ensuring accurate IP address assignments, and minimizing potential conflicts. Achieved a comprehensive understanding of networking principles and honed skills in network architecture, subnet design, and IP address management through this project.
